@@ -1,4 +1,4 @@
-# portfolio
+# My Coding Portfolio
 
 **python-PPMimageEditor** contains a Python PPM image editor.
 
